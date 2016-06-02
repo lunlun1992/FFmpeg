@@ -234,7 +234,7 @@ Codecs:
   msvideo1.c                            Mike Melanson
   nellymoserdec.c                       Benjamin Larsson
   nuv.c                                 Reimar Doeffinger
-  nvenc.c                               Timo Rothenpieler
+  nvenc*                                Timo Rothenpieler
   paf.*                                 Paul B Mahol
   pcx.c                                 Ivo van Poorten
   pgssubdec.c                           Reimar Doeffinger
@@ -358,6 +358,7 @@ Filters:
   af_compand.c                          Paul B Mahol
   af_firequalizer.c                     Muhammad Faiz
   af_ladspa.c                           Paul B Mahol
+  af_loudnorm.c                         Kyle Swanson
   af_pan.c                              Nicolas George
   af_sidechaincompress.c                Paul B Mahol
   af_silenceremove.c                    Paul B Mahol
